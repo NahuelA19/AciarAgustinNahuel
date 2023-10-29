@@ -36,7 +36,7 @@ class Cuenta:
             self.amount -= amount
 
 #Clase en uso:
-cuenta = Cuenta("Juan Pérez", 700.0)
+cuenta = Cuenta("Juan Roman ", 700.0)
 cuenta.show()
 cuenta.ingresar(70.0)
 cuenta.show()
